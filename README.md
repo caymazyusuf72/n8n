@@ -1,6 +1,5 @@
 # (G) - Email Classification Workflow for n8n
 
-![n8n](https://raw.githubusercontent.com/n8n-io/n8n/master/docs/images/n8n-logo.png)
 
 ## Overview
 
